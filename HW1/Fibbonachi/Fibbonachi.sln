@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibbonachi", "Fibbonachi\Fibbonachi.csproj", "{31D37160-D7BA-4AFF-B022-36F082D371DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibbonachi.Tests", "FibbonachiTest\Fibbonachi.Tests.csproj", "{B90E4342-B9DF-4097-85FE-31E7807814F1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9AFD3FB7-F303-4739-8B1E-6D5E8748A89D}"
+	ProjectSection(SolutionItems) = preProject
+		Fibbonachi.vsmdi = Fibbonachi.vsmdi
+		Local.testsettings = Local.testsettings
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = Fibbonachi.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31D37160-D7BA-4AFF-B022-36F082D371DE}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{31D37160-D7BA-4AFF-B022-36F082D371DE}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{31D37160-D7BA-4AFF-B022-36F082D371DE}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{31D37160-D7BA-4AFF-B022-36F082D371DE}.Debug|x86.ActiveCfg = Debug|x86
+		{31D37160-D7BA-4AFF-B022-36F082D371DE}.Debug|x86.Build.0 = Debug|x86
+		{31D37160-D7BA-4AFF-B022-36F082D371DE}.Release|Any CPU.ActiveCfg = Release|x86
+		{31D37160-D7BA-4AFF-B022-36F082D371DE}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{31D37160-D7BA-4AFF-B022-36F082D371DE}.Release|Mixed Platforms.Build.0 = Release|x86
+		{31D37160-D7BA-4AFF-B022-36F082D371DE}.Release|x86.ActiveCfg = Release|x86
+		{31D37160-D7BA-4AFF-B022-36F082D371DE}.Release|x86.Build.0 = Release|x86
+		{B90E4342-B9DF-4097-85FE-31E7807814F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B90E4342-B9DF-4097-85FE-31E7807814F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B90E4342-B9DF-4097-85FE-31E7807814F1}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{B90E4342-B9DF-4097-85FE-31E7807814F1}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{B90E4342-B9DF-4097-85FE-31E7807814F1}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B90E4342-B9DF-4097-85FE-31E7807814F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B90E4342-B9DF-4097-85FE-31E7807814F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B90E4342-B9DF-4097-85FE-31E7807814F1}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{B90E4342-B9DF-4097-85FE-31E7807814F1}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{B90E4342-B9DF-4097-85FE-31E7807814F1}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
