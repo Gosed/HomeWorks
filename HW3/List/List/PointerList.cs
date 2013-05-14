@@ -53,8 +53,6 @@ namespace List
         public void Print()
         {
             ListElement iterator = this.head;
-            if (iterator == null)
-                throw new Exception("Empty List");
             while (iterator != null)
             {
                 Console.WriteLine(iterator.Data);

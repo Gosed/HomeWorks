@@ -23,19 +23,18 @@ namespace List.Tests
         {
             PointerList list = new PointerList();
             list.Delete(56);
+        }
+
+        [TestMethod]
+        [ExpectedException(typeof(System.Exception))]
+        public void DeleteTest()
+        {
+            PointerList list = new PointerList();
             list.Add(4);
             list.Delete(4);
             Assert.IsTrue(list.IsEmpty());
             list.Add(4);
             list.Delete(48);
-        }
-
-        [TestMethod]
-        [ExpectedException(typeof(System.Exception))]
-        public void PrintTest()
-        {
-            PointerList list = new PointerList();
-            list.Print();
         }
     }
 }
