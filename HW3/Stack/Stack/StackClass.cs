@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Stack
 {
-    class StackClass
+    public class StackClass
     {
         /// <summary>
         /// Building of a stack

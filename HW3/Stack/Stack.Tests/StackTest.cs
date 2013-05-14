@@ -7,7 +7,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace Stack.Tests
 {
     [TestClass]
-    public class ListTest
+    public class StackTest
     {
         [TestMethod]
         public void PushTest()
