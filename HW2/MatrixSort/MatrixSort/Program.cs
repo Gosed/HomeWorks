@@ -7,6 +7,10 @@ namespace MatrixSort
 {
     class Program
     {
+        /// <summary>
+        /// Main part of programm
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
             Console.WriteLine("Enter the size of matrix (horizontal length and vertical length):");
@@ -15,10 +19,10 @@ namespace MatrixSort
             int[,] matrix = new int[hor, vert];
             Console.WriteLine("Enter the matrix");
             for (int i = 0; i < vert; i++)           
-                for (int j = 0; j < vert; j++)
+                for (int j = 0; j < hor; j++)
                     matrix[i, j] = int.Parse(Console.ReadLine());
             Console.WriteLine("Matrix has been sorted:");
-            QMatrixSort(matrix, 0, vert - 1, hor);
+            QMatrixSort(matrix, 0, hor - 1, vert);
             for (int i = 0; i < vert; i++)
             {
                 for (int j = 0; j < vert; j++)
@@ -31,6 +35,13 @@ namespace MatrixSort
             Console.ReadKey();
         }
 
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="Array"></param>
+        /// <param name="LeftBorder"></param>
+        /// <param name="RightBorder"></param>
+        /// <param name="MatrixHorLength"></param>
         static void QMatrixSort(int[,] Array, int LeftBorder, int RightBorder, int MatrixHorLength)
         {
             int LeftElement = LeftBorder;
@@ -46,12 +57,13 @@ namespace MatrixSort
                         RightElement--;
                     if (LeftElement <= RightElement)
                     {
-                        int i;
+                        
                         for (int j = 0; j < MatrixHorLength; j++)
                         {
-                            i = Array[LeftElement, j];
+                            int tmp;
+                            tmp = Array[LeftElement, j];
                             Array[LeftElement, j] = Array[RightElement, j];
-                            Array[RightElement, j] = i;
+                            Array[RightElement, j] = tmp;
                         }
                         LeftElement++;
                         RightElement--;
