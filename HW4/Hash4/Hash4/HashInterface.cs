@@ -3,12 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace HashTable
+namespace Hash4
 {
-    class Program
+    public interface HashInterface
     {
-        static void Main(string[] args)
-        {
-        }
+        int Hash(int value, int n);
     }
 }

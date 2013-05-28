@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace HashTable
+namespace Hash4
 {
     class HashTable
     {
@@ -23,11 +23,7 @@ namespace HashTable
 
         }
 
-
-        private int Hash(int value)
-        {
-            return value % (n + 1);
-        }
+        private HashInterface hash;
 
         /// <summary>
         /// Search in ht
@@ -36,7 +32,7 @@ namespace HashTable
         /// <returns></returns>
         public bool SearchInHT(int value)
         {
-            int h = Hash(value);
+            int h = hash.Hash(value, n);
             return list[h].SearchInList(value);
         }
 
@@ -46,7 +42,7 @@ namespace HashTable
         /// <param name="value"></param>
         public void Remove(int value)
         {
-            int h = Hash(value);
+            int h = hash.Hash(value, n);
             ListElement pos = list[h].First();
             while ((pos.next != null) || (list[h].Retrieve(pos) != value))
             {
@@ -67,7 +63,7 @@ namespace HashTable
         {
             if (!SearchInHT(value))
             {
-                int h = Hash(value);
+                int h = hash.Hash(value, n);
                 ListElement pos = list[h].First();
                 list[h].AddToList(value, pos);
             }

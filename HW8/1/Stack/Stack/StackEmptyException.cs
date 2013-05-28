@@ -3,12 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace HashTable
+namespace Stack
 {
-    class Program
+    public class StackEmptyException : ApplicationException
     {
-        static void Main(string[] args)
-        {
-        }
     }
 }
