@@ -48,6 +48,12 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="FTest.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Filter\Filter.csproj">
+      <Project>{4421C1CF-D310-4AC6-BB32-1A766230BCCD}</Project>
+      <Name>Filter</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

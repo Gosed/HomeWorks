@@ -1,9 +1,14 @@
 ﻿using System;
+using System.Text;
+using System.Collections.Generic;
+using System.Collections;
+using System.Linq;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace UList.Tests
 {
-    class UListTest
+    [TestClass]
+    public class UListTest
     {
         [TestMethod]
         public void AddTest()

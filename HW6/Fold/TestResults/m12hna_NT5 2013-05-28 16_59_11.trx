@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="7d9de9f9-dbc3-41ea-89a3-e375e3277d6b" name="m12hna@NT5 2013-05-28 16:59:11" runUser="MATH\m12hna" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="4cce9004-5eb4-4e43-89ee-3e391d089dff">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="m12hna_NT5 2013-05-28 16_59_11">
+      <DeploymentItem filename="C:\Users\m12hna\Documents\Visual Studio 2010\Projects\HW6\Fold\Fold\bin\Debug\Fold.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2013-05-28T16:59:11.3984058+04:00" queuing="2013-05-28T16:59:11.4504110+04:00" start="2013-05-28T16:59:11.4914151+04:00" finish="2013-05-28T16:59:11.8824542+04:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="FoldTests" storage="c:\users\m12hna\documents\visual studio 2010\projects\hw6\fold\fold.test\bin\debug\fold.test.dll" id="92048698-738a-4b83-0a37-62440342ee49">
+      <Execution id="7dad3fe0-4e0a-467d-9b48-d159950f935d" />
+      <TestMethod codeBase="C:/Users/m12hna/Documents/Visual Studio 2010/Projects/HW6/Fold/Fold.Test/bin/Debug/Fold.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.FoldTest, Fold.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="FoldTests" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="92048698-738a-4b83-0a37-62440342ee49" executionId="7dad3fe0-4e0a-467d-9b48-d159950f935d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="7dad3fe0-4e0a-467d-9b48-d159950f935d" testId="92048698-738a-4b83-0a37-62440342ee49" testName="FoldTests" computerName="NT5" duration="00:00:00.0124293" startTime="2013-05-28T16:59:11.4964156+04:00" endTime="2013-05-28T16:59:11.7094369+04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7dad3fe0-4e0a-467d-9b48-d159950f935d">
+    </UnitTestResult>
+  </Results>
+</TestRun>

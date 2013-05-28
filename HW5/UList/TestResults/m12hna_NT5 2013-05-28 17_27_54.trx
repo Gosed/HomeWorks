@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="e186add7-e0d8-47ce-95a8-b6412611e9b7" name="m12hna@NT5 2013-05-28 17:27:54" runUser="MATH\m12hna" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="29287abf-bd0e-4b85-b074-53d1035e85aa">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="m12hna_NT5 2013-05-28 17_27_54">
+      <DeploymentItem filename="C:\Users\m12hna\Documents\Visual Studio 2010\Projects\HW5\UList\UList\bin\Debug\UList.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2013-05-28T17:27:54.0802754+04:00" queuing="2013-05-28T17:27:54.7222112+04:00" start="2013-05-28T17:27:54.7652069+04:00" finish="2013-05-28T17:27:55.0421792+04:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="3" executed="3" passed="3" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="PrintTest" storage="c:\users\m12hna\documents\visual studio 2010\projects\hw5\ulist\uniquelist.tests\bin\debug\uniquelist.tests.dll" id="c30e53db-a61b-e36a-370d-d0cb76aef0df">
+      <Execution id="2d4279f4-8daf-4cb2-8daf-60dce45206a2" />
+      <TestMethod codeBase="C:/Users/m12hna/Documents/Visual Studio 2010/Projects/HW5/UList/UniqueList.Tests/bin/Debug/UniqueList.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UniqueList.Tests.UniqueListTest, UniqueList.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PrintTest" />
+    </UnitTest>
+    <UnitTest name="AddTest" storage="c:\users\m12hna\documents\visual studio 2010\projects\hw5\ulist\uniquelist.tests\bin\debug\uniquelist.tests.dll" id="ad18abb0-bf8b-9c04-5f71-36a878bb96fa">
+      <Execution id="d62a2d04-669f-45da-b04a-f76e3727a5e4" />
+      <TestMethod codeBase="C:/Users/m12hna/Documents/Visual Studio 2010/Projects/HW5/UList/UniqueList.Tests/bin/Debug/UniqueList.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UniqueList.Tests.UniqueListTest, UniqueList.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="AddTest" />
+    </UnitTest>
+    <UnitTest name="DeleteTest" storage="c:\users\m12hna\documents\visual studio 2010\projects\hw5\ulist\uniquelist.tests\bin\debug\uniquelist.tests.dll" id="2bc0c085-a745-f0d1-7cca-0e4b2fbc34f1">
+      <Execution id="398d5311-c1f5-493a-a3ea-4958a4e7648d" />
+      <TestMethod codeBase="C:/Users/m12hna/Documents/Visual Studio 2010/Projects/HW5/UList/UniqueList.Tests/bin/Debug/UniqueList.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UniqueList.Tests.UniqueListTest, UniqueList.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="DeleteTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="2bc0c085-a745-f0d1-7cca-0e4b2fbc34f1" executionId="398d5311-c1f5-493a-a3ea-4958a4e7648d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ad18abb0-bf8b-9c04-5f71-36a878bb96fa" executionId="d62a2d04-669f-45da-b04a-f76e3727a5e4" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c30e53db-a61b-e36a-370d-d0cb76aef0df" executionId="2d4279f4-8daf-4cb2-8daf-60dce45206a2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="398d5311-c1f5-493a-a3ea-4958a4e7648d" testId="2bc0c085-a745-f0d1-7cca-0e4b2fbc34f1" testName="DeleteTest" computerName="NT5" duration="00:00:00.0187772" startTime="2013-05-28T17:27:54.7752059+04:00" endTime="2013-05-28T17:27:55.0061828+04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="398d5311-c1f5-493a-a3ea-4958a4e7648d">
+    </UnitTestResult>
+    <UnitTestResult executionId="d62a2d04-669f-45da-b04a-f76e3727a5e4" testId="ad18abb0-bf8b-9c04-5f71-36a878bb96fa" testName="AddTest" computerName="NT5" duration="00:00:00.0008214" startTime="2013-05-28T17:27:55.0081826+04:00" endTime="2013-05-28T17:27:55.0131821+04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d62a2d04-669f-45da-b04a-f76e3727a5e4">
+    </UnitTestResult>
+    <UnitTestResult executionId="2d4279f4-8daf-4cb2-8daf-60dce45206a2" testId="c30e53db-a61b-e36a-370d-d0cb76aef0df" testName="PrintTest" computerName="NT5" duration="00:00:00.0006041" startTime="2013-05-28T17:27:55.0151819+04:00" endTime="2013-05-28T17:27:55.0191815+04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2d4279f4-8daf-4cb2-8daf-60dce45206a2">
+    </UnitTestResult>
+  </Results>
+</TestRun>

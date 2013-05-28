@@ -6,20 +6,6 @@ namespace SetGeneric
     public class Set<T> : IEnumerable<T>
     {
         /// <summary>
-        /// Add element in set.
-        /// </summary>
-        /// <param name="value"></param>
-        public void Add(T value)
-        {
-            if (this.Search(value))
-            {
-                return;
-            }
-            list.Insert(index, value);
-            index++;
-        }
-
-        /// <summary>
         /// True if there is such an element in set
         /// </summary>
         /// <param name="value"></param>
@@ -34,6 +20,20 @@ namespace SetGeneric
                 }
             }
             return false;
+        }
+
+        /// <summary>
+        /// Add element in set.
+        /// </summary>
+        /// <param name="value"></param>
+        public void Add(T value)
+        {
+            if (this.Search(value))
+            {
+                return;
+            }
+            list.Insert(index, value);
+            index++;
         }
 
         /// <summary>

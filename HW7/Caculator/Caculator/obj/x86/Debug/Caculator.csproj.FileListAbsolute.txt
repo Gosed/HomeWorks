@@ -1,0 +1,9 @@
+C:\Users\m12hna\Documents\Visual Studio 2010\Projects\HW7\Caculator\Caculator\bin\Debug\Caculator.exe
+C:\Users\m12hna\Documents\Visual Studio 2010\Projects\HW7\Caculator\Caculator\bin\Debug\Caculator.pdb
+C:\Users\m12hna\Documents\Visual Studio 2010\Projects\HW7\Caculator\Caculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\m12hna\Documents\Visual Studio 2010\Projects\HW7\Caculator\Caculator\obj\x86\Debug\Caculator.Form1.resources
+C:\Users\m12hna\Documents\Visual Studio 2010\Projects\HW7\Caculator\Caculator\obj\x86\Debug\Caculator.Properties.Resources.resources
+C:\Users\m12hna\Documents\Visual Studio 2010\Projects\HW7\Caculator\Caculator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\m12hna\Documents\Visual Studio 2010\Projects\HW7\Caculator\Caculator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\m12hna\Documents\Visual Studio 2010\Projects\HW7\Caculator\Caculator\obj\x86\Debug\Caculator.exe
+C:\Users\m12hna\Documents\Visual Studio 2010\Projects\HW7\Caculator\Caculator\obj\x86\Debug\Caculator.pdb

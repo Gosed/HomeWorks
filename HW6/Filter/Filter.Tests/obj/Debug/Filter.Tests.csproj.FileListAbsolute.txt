@@ -1,0 +1,7 @@
+C:\Users\m12hna\Documents\Visual Studio 2010\Projects\HW6\Filter\Filter.Tests\bin\Debug\Filter.Tests.dll
+C:\Users\m12hna\Documents\Visual Studio 2010\Projects\HW6\Filter\Filter.Tests\bin\Debug\Filter.Tests.pdb
+C:\Users\m12hna\Documents\Visual Studio 2010\Projects\HW6\Filter\Filter.Tests\bin\Debug\Filter.exe
+C:\Users\m12hna\Documents\Visual Studio 2010\Projects\HW6\Filter\Filter.Tests\bin\Debug\Filter.pdb
+C:\Users\m12hna\Documents\Visual Studio 2010\Projects\HW6\Filter\Filter.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\m12hna\Documents\Visual Studio 2010\Projects\HW6\Filter\Filter.Tests\obj\Debug\Filter.Tests.dll
+C:\Users\m12hna\Documents\Visual Studio 2010\Projects\HW6\Filter\Filter.Tests\obj\Debug\Filter.Tests.pdb

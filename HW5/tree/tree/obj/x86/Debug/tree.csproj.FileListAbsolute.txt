@@ -1,0 +1,5 @@
+C:\Users\m12hna\Documents\Visual Studio 2010\Projects\HW5\tree\tree\bin\Debug\tree.exe
+C:\Users\m12hna\Documents\Visual Studio 2010\Projects\HW5\tree\tree\bin\Debug\tree.pdb
+C:\Users\m12hna\Documents\Visual Studio 2010\Projects\HW5\tree\tree\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\m12hna\Documents\Visual Studio 2010\Projects\HW5\tree\tree\obj\x86\Debug\tree.exe
+C:\Users\m12hna\Documents\Visual Studio 2010\Projects\HW5\tree\tree\obj\x86\Debug\tree.pdb

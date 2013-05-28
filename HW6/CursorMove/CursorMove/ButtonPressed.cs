@@ -5,9 +5,11 @@ using System.Text;
 
 namespace CursorMove
 {
+    public delegate void ArrowHandler();
+
     public class ButtonPressed
     {
-        public delegate void ArrowHandler();
+        
         /// <summary>
         /// Method says what to do when button is pressed
         /// </summary>

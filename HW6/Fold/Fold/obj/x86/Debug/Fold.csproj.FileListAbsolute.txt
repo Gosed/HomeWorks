@@ -1,0 +1,5 @@
+C:\Users\m12hna\Documents\Visual Studio 2010\Projects\HW6\Fold\Fold\bin\Debug\Fold.exe
+C:\Users\m12hna\Documents\Visual Studio 2010\Projects\HW6\Fold\Fold\bin\Debug\Fold.pdb
+C:\Users\m12hna\Documents\Visual Studio 2010\Projects\HW6\Fold\Fold\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\m12hna\Documents\Visual Studio 2010\Projects\HW6\Fold\Fold\obj\x86\Debug\Fold.exe
+C:\Users\m12hna\Documents\Visual Studio 2010\Projects\HW6\Fold\Fold\obj\x86\Debug\Fold.pdb

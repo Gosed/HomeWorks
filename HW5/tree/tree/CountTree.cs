@@ -52,11 +52,11 @@ namespace tree
                 CountTree LTree = new CountTree();
                 i++;
                 LTree.Build(ref i, str);
-                CountTree RTree2 = new CountTree();
+                CountTree RTree = new CountTree();
                 i++;
-                RTree2.Build(ref i, str);
+                RTree.Build(ref i, str);
                 tmp.LeftBranch = LTree.head;
-                tmp.RightBranch = RTree2.head;
+                tmp.RightBranch = RTree.head;
             }
             int j = i;
             int number = 0;

@@ -37,5 +37,10 @@ namespace Clock
                 SecondText = "0" + SecondText;
             label1.Text = HourText + ":" + MinuteText + ":" + SecondText;
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

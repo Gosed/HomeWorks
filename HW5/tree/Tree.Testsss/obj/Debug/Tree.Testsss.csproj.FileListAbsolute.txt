@@ -1,0 +1,7 @@
+C:\Users\m12hna\Documents\Visual Studio 2010\Projects\HW5\tree\Tree.Testsss\bin\Debug\Tree.Testsss.dll
+C:\Users\m12hna\Documents\Visual Studio 2010\Projects\HW5\tree\Tree.Testsss\bin\Debug\Tree.Testsss.pdb
+C:\Users\m12hna\Documents\Visual Studio 2010\Projects\HW5\tree\Tree.Testsss\bin\Debug\tree.exe
+C:\Users\m12hna\Documents\Visual Studio 2010\Projects\HW5\tree\Tree.Testsss\bin\Debug\tree.pdb
+C:\Users\m12hna\Documents\Visual Studio 2010\Projects\HW5\tree\Tree.Testsss\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\m12hna\Documents\Visual Studio 2010\Projects\HW5\tree\Tree.Testsss\obj\Debug\Tree.Testsss.dll
+C:\Users\m12hna\Documents\Visual Studio 2010\Projects\HW5\tree\Tree.Testsss\obj\Debug\Tree.Testsss.pdb

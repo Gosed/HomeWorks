@@ -1,0 +1,7 @@
+C:\Users\m12hna\Documents\Visual Studio 2010\Projects\HW5\UList\UniqueList.Tests\bin\Debug\UniqueList.Tests.dll
+C:\Users\m12hna\Documents\Visual Studio 2010\Projects\HW5\UList\UniqueList.Tests\bin\Debug\UniqueList.Tests.pdb
+C:\Users\m12hna\Documents\Visual Studio 2010\Projects\HW5\UList\UniqueList.Tests\bin\Debug\UList.exe
+C:\Users\m12hna\Documents\Visual Studio 2010\Projects\HW5\UList\UniqueList.Tests\bin\Debug\UList.pdb
+C:\Users\m12hna\Documents\Visual Studio 2010\Projects\HW5\UList\UniqueList.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\m12hna\Documents\Visual Studio 2010\Projects\HW5\UList\UniqueList.Tests\obj\Debug\UniqueList.Tests.dll
+C:\Users\m12hna\Documents\Visual Studio 2010\Projects\HW5\UList\UniqueList.Tests\obj\Debug\UniqueList.Tests.pdb

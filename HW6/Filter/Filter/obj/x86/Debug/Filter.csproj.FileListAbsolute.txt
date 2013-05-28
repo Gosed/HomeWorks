@@ -1,0 +1,5 @@
+C:\Users\m12hna\Documents\Visual Studio 2010\Projects\HW6\Filter\Filter\bin\Debug\Filter.exe
+C:\Users\m12hna\Documents\Visual Studio 2010\Projects\HW6\Filter\Filter\bin\Debug\Filter.pdb
+C:\Users\m12hna\Documents\Visual Studio 2010\Projects\HW6\Filter\Filter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\m12hna\Documents\Visual Studio 2010\Projects\HW6\Filter\Filter\obj\x86\Debug\Filter.exe
+C:\Users\m12hna\Documents\Visual Studio 2010\Projects\HW6\Filter\Filter\obj\x86\Debug\Filter.pdb

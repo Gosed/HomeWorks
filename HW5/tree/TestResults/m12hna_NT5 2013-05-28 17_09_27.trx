@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="7630a2ae-eea9-4f04-9247-b1f490282ec3" name="m12hna@NT5 2013-05-28 17:09:27" runUser="MATH\m12hna" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="d3b9fc0e-7ce6-4a05-b003-573e32797c3f">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="m12hna_NT5 2013-05-28 17_09_27">
+      <DeploymentItem filename="C:\Users\m12hna\Documents\Visual Studio 2010\Projects\HW5\tree\tree\bin\Debug\tree.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2013-05-28T17:09:27.9920590+04:00" queuing="2013-05-28T17:09:28.7901388+04:00" start="2013-05-28T17:09:28.8341432+04:00" finish="2013-05-28T17:09:28.8561454+04:00" />
+  <ResultSummary outcome="NotRunnable">
+    <Counters total="4" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="4" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="DifferenceTest" storage="c:\users\m12hna\documents\visual studio 2010\projects\hw5\tree\tree.testsss\bin\debug\tree.testsss.dll" id="926a421c-3b7c-6a3f-b20a-c94c9d8c0c2f">
+      <Execution id="1ec6c25d-9496-4b90-ba75-97187bd7a719" />
+      <TestMethod codeBase="C:/Users/m12hna/Documents/Visual Studio 2010/Projects/HW5/tree/Tree.Testsss/bin/Debug/Tree.Testsss.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Tree.Testsss.TreeTest, Tree.Testsss, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="DifferenceTest" />
+    </UnitTest>
+    <UnitTest name="DivisionTest" storage="c:\users\m12hna\documents\visual studio 2010\projects\hw5\tree\tree.testsss\bin\debug\tree.testsss.dll" id="f75111de-9cec-8529-3427-906f70524477">
+      <Execution id="e941b326-c0de-4a6d-88ef-3646c3b73d45" />
+      <TestMethod codeBase="C:/Users/m12hna/Documents/Visual Studio 2010/Projects/HW5/tree/Tree.Testsss/bin/Debug/Tree.Testsss.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Tree.Testsss.TreeTest, Tree.Testsss, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="DivisionTest" />
+    </UnitTest>
+    <UnitTest name="SumTest" storage="c:\users\m12hna\documents\visual studio 2010\projects\hw5\tree\tree.testsss\bin\debug\tree.testsss.dll" id="4b0525cd-6abd-e757-da4f-a24a2aa7ca30">
+      <Execution id="bbec05a3-3a83-4497-bb11-6018d0f4a16d" />
+      <TestMethod codeBase="C:/Users/m12hna/Documents/Visual Studio 2010/Projects/HW5/tree/Tree.Testsss/bin/Debug/Tree.Testsss.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Tree.Testsss.TreeTest, Tree.Testsss, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="SumTest" />
+    </UnitTest>
+    <UnitTest name="MultiplicationTest" storage="c:\users\m12hna\documents\visual studio 2010\projects\hw5\tree\tree.testsss\bin\debug\tree.testsss.dll" id="6ba74189-310d-ce18-5df0-c681540cafaf">
+      <Execution id="e5455d54-3ec1-4d9b-bd0f-d0a084562214" />
+      <TestMethod codeBase="C:/Users/m12hna/Documents/Visual Studio 2010/Projects/HW5/tree/Tree.Testsss/bin/Debug/Tree.Testsss.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Tree.Testsss.TreeTest, Tree.Testsss, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="MultiplicationTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="4b0525cd-6abd-e757-da4f-a24a2aa7ca30" executionId="bbec05a3-3a83-4497-bb11-6018d0f4a16d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6ba74189-310d-ce18-5df0-c681540cafaf" executionId="e5455d54-3ec1-4d9b-bd0f-d0a084562214" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="926a421c-3b7c-6a3f-b20a-c94c9d8c0c2f" executionId="1ec6c25d-9496-4b90-ba75-97187bd7a719" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f75111de-9cec-8529-3427-906f70524477" executionId="e941b326-c0de-4a6d-88ef-3646c3b73d45" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="bbec05a3-3a83-4497-bb11-6018d0f4a16d" testId="4b0525cd-6abd-e757-da4f-a24a2aa7ca30" testName="SumTest" computerName="NT5" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotRunnable" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="bbec05a3-3a83-4497-bb11-6018d0f4a16d">
+      <Output>
+        <ErrorInfo>
+          <Message>UTA004: Illegal use of attribute on Tree.Testsss.TreeTest.SumTest. The TestMethodAttribute can be defined only inside a class marked with the TestClass attribute.</Message>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="e5455d54-3ec1-4d9b-bd0f-d0a084562214" testId="6ba74189-310d-ce18-5df0-c681540cafaf" testName="MultiplicationTest" computerName="NT5" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotRunnable" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e5455d54-3ec1-4d9b-bd0f-d0a084562214">
+      <Output>
+        <ErrorInfo>
+          <Message>UTA004: Illegal use of attribute on Tree.Testsss.TreeTest.MultiplicationTest. The TestMethodAttribute can be defined only inside a class marked with the TestClass attribute.</Message>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="1ec6c25d-9496-4b90-ba75-97187bd7a719" testId="926a421c-3b7c-6a3f-b20a-c94c9d8c0c2f" testName="DifferenceTest" computerName="NT5" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotRunnable" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1ec6c25d-9496-4b90-ba75-97187bd7a719">
+      <Output>
+        <ErrorInfo>
+          <Message>UTA004: Illegal use of attribute on Tree.Testsss.TreeTest.DifferenceTest. The TestMethodAttribute can be defined only inside a class marked with the TestClass attribute.</Message>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="e941b326-c0de-4a6d-88ef-3646c3b73d45" testId="f75111de-9cec-8529-3427-906f70524477" testName="DivisionTest" computerName="NT5" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotRunnable" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e941b326-c0de-4a6d-88ef-3646c3b73d45">
+      <Output>
+        <ErrorInfo>
+          <Message>UTA004: Illegal use of attribute on Tree.Testsss.TreeTest.DivisionTest. The TestMethodAttribute can be defined only inside a class marked with the TestClass attribute.</Message>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

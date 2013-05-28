@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="df971c71-a7c8-4ecd-84e7-d7d256502739" name="m12hna@NT5 2013-05-28 17:16:49" runUser="MATH\m12hna" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="d3b9fc0e-7ce6-4a05-b003-573e32797c3f">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="m12hna_NT5 2013-05-28 17_16_49">
+      <DeploymentItem filename="C:\Users\m12hna\Documents\Visual Studio 2010\Projects\HW5\tree\tree\bin\Debug\tree.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2013-05-28T17:16:49.0881642+04:00" queuing="2013-05-28T17:16:49.1321686+04:00" start="2013-05-28T17:16:49.1471701+04:00" finish="2013-05-28T17:16:49.8382392+04:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="4" executed="4" passed="4" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="DifferenceTest" storage="c:\users\m12hna\documents\visual studio 2010\projects\hw5\tree\tree.testsss\bin\debug\tree.testsss.dll" id="926a421c-3b7c-6a3f-b20a-c94c9d8c0c2f">
+      <Execution id="68a89469-cbcb-4bef-9131-24bf5949998f" />
+      <TestMethod codeBase="C:/Users/m12hna/Documents/Visual Studio 2010/Projects/HW5/tree/Tree.Testsss/bin/Debug/Tree.Testsss.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Tree.Testsss.TreeTest, Tree.Testsss, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="DifferenceTest" />
+    </UnitTest>
+    <UnitTest name="DivisionTest" storage="c:\users\m12hna\documents\visual studio 2010\projects\hw5\tree\tree.testsss\bin\debug\tree.testsss.dll" id="f75111de-9cec-8529-3427-906f70524477">
+      <Execution id="310dec38-bd68-4b72-bd1b-05720c7415de" />
+      <TestMethod codeBase="C:/Users/m12hna/Documents/Visual Studio 2010/Projects/HW5/tree/Tree.Testsss/bin/Debug/Tree.Testsss.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Tree.Testsss.TreeTest, Tree.Testsss, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="DivisionTest" />
+    </UnitTest>
+    <UnitTest name="SumTest" storage="c:\users\m12hna\documents\visual studio 2010\projects\hw5\tree\tree.testsss\bin\debug\tree.testsss.dll" id="4b0525cd-6abd-e757-da4f-a24a2aa7ca30">
+      <Execution id="c0ffb06d-9922-4296-aee5-fc1ea119b7d6" />
+      <TestMethod codeBase="C:/Users/m12hna/Documents/Visual Studio 2010/Projects/HW5/tree/Tree.Testsss/bin/Debug/Tree.Testsss.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Tree.Testsss.TreeTest, Tree.Testsss, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="SumTest" />
+    </UnitTest>
+    <UnitTest name="MultiplicationTest" storage="c:\users\m12hna\documents\visual studio 2010\projects\hw5\tree\tree.testsss\bin\debug\tree.testsss.dll" id="6ba74189-310d-ce18-5df0-c681540cafaf">
+      <Execution id="c67df6fd-b362-4d16-af5b-eac5d3c1eb2f" />
+      <TestMethod codeBase="C:/Users/m12hna/Documents/Visual Studio 2010/Projects/HW5/tree/Tree.Testsss/bin/Debug/Tree.Testsss.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Tree.Testsss.TreeTest, Tree.Testsss, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="MultiplicationTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="4b0525cd-6abd-e757-da4f-a24a2aa7ca30" executionId="c0ffb06d-9922-4296-aee5-fc1ea119b7d6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6ba74189-310d-ce18-5df0-c681540cafaf" executionId="c67df6fd-b362-4d16-af5b-eac5d3c1eb2f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="926a421c-3b7c-6a3f-b20a-c94c9d8c0c2f" executionId="68a89469-cbcb-4bef-9131-24bf5949998f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f75111de-9cec-8529-3427-906f70524477" executionId="310dec38-bd68-4b72-bd1b-05720c7415de" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="c0ffb06d-9922-4296-aee5-fc1ea119b7d6" testId="4b0525cd-6abd-e757-da4f-a24a2aa7ca30" testName="SumTest" computerName="NT5" duration="00:00:00.0126131" startTime="2013-05-28T17:16:49.1731727+04:00" endTime="2013-05-28T17:16:49.4271981+04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c0ffb06d-9922-4296-aee5-fc1ea119b7d6">
+    </UnitTestResult>
+    <UnitTestResult executionId="c67df6fd-b362-4d16-af5b-eac5d3c1eb2f" testId="6ba74189-310d-ce18-5df0-c681540cafaf" testName="MultiplicationTest" computerName="NT5" duration="00:00:00.0006038" startTime="2013-05-28T17:16:49.4281982+04:00" endTime="2013-05-28T17:16:49.4321986+04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c67df6fd-b362-4d16-af5b-eac5d3c1eb2f">
+    </UnitTestResult>
+    <UnitTestResult executionId="68a89469-cbcb-4bef-9131-24bf5949998f" testId="926a421c-3b7c-6a3f-b20a-c94c9d8c0c2f" testName="DifferenceTest" computerName="NT5" duration="00:00:00.0004089" startTime="2013-05-28T17:16:49.4331987+04:00" endTime="2013-05-28T17:16:49.4361990+04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="68a89469-cbcb-4bef-9131-24bf5949998f">
+    </UnitTestResult>
+    <UnitTestResult executionId="310dec38-bd68-4b72-bd1b-05720c7415de" testId="f75111de-9cec-8529-3427-906f70524477" testName="DivisionTest" computerName="NT5" duration="00:00:00.0004038" startTime="2013-05-28T17:16:49.4371991+04:00" endTime="2013-05-28T17:16:49.4401994+04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="310dec38-bd68-4b72-bd1b-05720c7415de">
+    </UnitTestResult>
+  </Results>
+</TestRun>

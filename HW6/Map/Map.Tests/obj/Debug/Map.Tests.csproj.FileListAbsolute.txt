@@ -1,0 +1,7 @@
+C:\Users\m12hna\Documents\Visual Studio 2010\Projects\HW6\Map\Map.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\m12hna\Documents\Visual Studio 2010\Projects\HW6\Map\Map.Tests\bin\Debug\Map.Tests.dll
+C:\Users\m12hna\Documents\Visual Studio 2010\Projects\HW6\Map\Map.Tests\bin\Debug\Map.Tests.pdb
+C:\Users\m12hna\Documents\Visual Studio 2010\Projects\HW6\Map\Map.Tests\bin\Debug\Map.exe
+C:\Users\m12hna\Documents\Visual Studio 2010\Projects\HW6\Map\Map.Tests\bin\Debug\Map.pdb
+C:\Users\m12hna\Documents\Visual Studio 2010\Projects\HW6\Map\Map.Tests\obj\Debug\Map.Tests.dll
+C:\Users\m12hna\Documents\Visual Studio 2010\Projects\HW6\Map\Map.Tests\obj\Debug\Map.Tests.pdb

@@ -25,6 +25,8 @@ namespace tree
             tree.Build(ref tmp, str);
             Console.WriteLine(tree.CountThisTree());
             tree.PrintThisTree();
+            Console.ReadKey();
         }
+        
     }
 }

@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Fold
 {
-    class FoldClass
+    public class FoldClass
     {
         /// <summary>
         /// Fold function

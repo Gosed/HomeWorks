@@ -1,0 +1,7 @@
+C:\Users\m12hna\Documents\Visual Studio 2010\Projects\HW8\SetGeneric\SetGeneric.Tests\bin\Debug\SetGeneric.Tests.dll
+C:\Users\m12hna\Documents\Visual Studio 2010\Projects\HW8\SetGeneric\SetGeneric.Tests\bin\Debug\SetGeneric.Tests.pdb
+C:\Users\m12hna\Documents\Visual Studio 2010\Projects\HW8\SetGeneric\SetGeneric.Tests\bin\Debug\SetGeneric.exe
+C:\Users\m12hna\Documents\Visual Studio 2010\Projects\HW8\SetGeneric\SetGeneric.Tests\bin\Debug\SetGeneric.pdb
+C:\Users\m12hna\Documents\Visual Studio 2010\Projects\HW8\SetGeneric\SetGeneric.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\m12hna\Documents\Visual Studio 2010\Projects\HW8\SetGeneric\SetGeneric.Tests\obj\Debug\SetGeneric.Tests.dll
+C:\Users\m12hna\Documents\Visual Studio 2010\Projects\HW8\SetGeneric\SetGeneric.Tests\obj\Debug\SetGeneric.Tests.pdb
